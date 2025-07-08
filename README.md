@@ -1,36 +1,57 @@
-### Hi there 👋 I'm Abdelrhman Abdelhay
+# 👋 Hi there, I'm Abdelrhman Abdelhay
 
 🎓 I'm a 2025 graduate from the Faculty of Engineering, Aswan University — Computer Engineering Department, with a **Very Good GPA**.
 
-💻 I'm a passionate **Flutter developer** and **backend developer**. I build mobile apps with:
-- 🔥 Flutter & Dart
-- 💳 Stripe & Payment Integration
-- 🧠 BLoC & State Management
-- 🛠 REST APIs & Backend logic (Node.js / mongodb/mongoose/express.js)
+💻 I'm a passionate **Flutter developer** and **backend engineer** with hands-on experience building scalable applications using:
+- 🔥 **Flutter & Dart** for cross-platform mobile development
+- 💳 **Stripe Integration** for secure payments
+- 🧠 **BLoC** for state management
+- 🛠 **Node.js, Express.js & MongoDB** for backend logic and RESTful APIs
 
-🌐 I'm also experienced with:
-- 🌍 Web APIs and database systems
-🚀 I love creating practical apps and solving real-world problems.
+🌍 I'm also skilled in:
+- ✅ Web APIs, system design, and full-stack development
 ---
 
-## 🎓 Graduation Project — Backend System (2025)
+## 🎓 Graduation Project — University Backend System (2025)
 
-A full-featured backend system for managing university operations:
+A full-featured backend system for managing university academic and administrative workflows.
 
-- 🔐 **Authentication & Roles:** JWT-based login with support for students, staff, admins, and super admins  
-- 📚 **Course & Program Management:** Add/edit colleges, departments, programs, subjects  
-- 📥 **Excel Import/Export:** Bulk import of students, subjects, and grades (midterms, finals, labs, coursework)  
-- 📊 **Grade Processing:** Automated validation, grade structure checks, and error handling  
-- 🔔 **Real-Time Notifications:** WebSocket-based alerts for system actions and approvals  
-- 🧾 **Audit Logging:** Tracks all sensitive operations securely  
-- ☁️ **File Uploads & Storage:** Excel, PDF, and image uploads with Cloudinary/AWS integration  
+### 🔑 Features
 
-🔗 [View Backend Repo](https://github.com/Abdelrhmanabdelhay/graduation-project-2025-backend-main)
+- 🔐 **Authentication & Roles:**  
+  JWT-based login system supporting Students, Admins, Staff, and Super Admins
+
+- 📚 **Program Management:**  
+  Add and manage Colleges, Departments, Programs, Courses
+
+- 📥 **Bulk Import/Export via Excel:**  
+  Upload students, courses, grades (midterms, labs, coursework) via Excel
+
+- 📊 **Smart Grade Processing:**  
+  Validates structures, detects errors, and handles calculations
+
+- 🔔 **Real-Time Notifications:**  
+  WebSocket-based alerts for approvals and system actions
+
+- 📁 **Cloud File Storage:**  
+  Upload & manage Excel, PDF, and images using Cloudinary or AWS
+
+- 🧾 **Audit Logs:**  
+  Tracks all key user actions securely for accountability
 
 ---
 
-📫 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/abdelrhmanabdelhay/)
-- 📧 Email: abdelrhmanabdelhay4@gmail.com 
+### 📸 Project Preview
+<!-- Use a relative path if hosted in your README or GitHub repo --> view all repos on my GitHub:  
+🔗 [https://github.com/Abdelrhmanabdelhay?tab=repositories](https://github.com/Abdelrhmanabdelhay?tab=repositories)
 
-> 📌 *Open to internships, freelance, and full-time roles in Mobile and Backend Development!*
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn – Abdelrhman Abdelhay](https://www.linkedin.com/in/abdelrhmanabdelhay/)
+- 📧 Email: abdelrhmanabdelhay4@gmail.com
+
+---
+
+> 💼 *Open to internships, freelance work, and full-time roles in Mobile and Backend Development.*
