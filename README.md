@@ -1,57 +1,34 @@
-# 👋 Hi there, I'm Abdelrhman Abdelhay
+<h1 align="center">Hi 👋, I'm Abdelrhmanabdelhay</h1>
+<h3 align="center">🎓 I'm a 2025 graduate from the Faculty of Engineering,Egypt, Aswan University — Computer Engineering Department, with a Very Good GPA. 💻 I'm a passionate Flutter developer and backend engineer with hands-on experience building scalable applications using: 🔥 Flutter & Dart for cross-platform mobile development 💳 Stripe Integration for secure payments 🧠 BLoC for state management 🛠 Node.js, Express.js & MongoDB for backend logic and RESTful APIs 🌍 I'm also skilled in: ✅ Web APIs, system design, and full-stack development</h3>
 
-🎓 I'm a 2025 graduate from the Faculty of Engineering, Aswan University — Computer Engineering Department, with a **Very Good GPA**.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhmanabdelhay&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhmanabdelhay" /> </p>
 
-💻 I'm a passionate **Flutter developer** and **backend engineer** with hands-on experience building scalable applications using:
-- 🔥 **Flutter & Dart** for cross-platform mobile development
-- 💳 **Stripe Integration** for secure payments
-- 🧠 **BLoC** for state management
-- 🛠 **Node.js, Express.js & MongoDB** for backend logic and RESTful APIs
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrhmanabdelhay" alt="abdelrhmanabdelhay" /></a> </p>
 
-🌍 I'm also skilled in:
-- ✅ Web APIs, system design, and full-stack development
----
+- 🔭 I’m currently working on [University Academic Management System](https://github.com/Abdelrhmanabdelhay/graduation-project-2025-backend-main)
 
-## 🎓 Graduation Project — University Backend System (2025)
+- 🌱 I’m currently learning **Docker, Clean Architecture, CI/CD pipelines, and advanced Flutter animations**
 
-A full-featured backend system for managing university academic and administrative workflows.
+- 👯 I’m looking to collaborate on [Backend systems using Node.js (APIs, authentication, database design)](https://github.com/Abdelrhmanabdelhay/Doctor-app-System-nodejs)
 
-### 🔑 Features
+- 🤝 I’m looking for help with **Deploying full-stack projects using Docker or cloud services**
 
-- 🔐 **Authentication & Roles:**  
-  JWT-based login system supporting Students, Admins, Staff, and Super Admins
+- 💬 Ask me about **Node.js, Express, MongoDB, REST APIs, JWT authentication, Excel import/export**
 
-- 📚 **Program Management:**  
-  Add and manage Colleges, Departments, Programs, Courses
+- 📫 How to reach me **abdelrhmanabdelhay4@gmail.com**
 
-- 📥 **Bulk Import/Export via Excel:**  
-  Upload students, courses, grades (midterms, labs, coursework) via Excel
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1HYR8InFXtdP8LXaJ4sR55T5DwhSrsr2m?usp=drive_link](https://drive.google.com/drive/folders/1HYR8InFXtdP8LXaJ4sR55T5DwhSrsr2m?usp=drive_link)
 
-- 📊 **Smart Grade Processing:**  
-  Validates structures, detects errors, and handles calculations
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/abdelrhmanabdelhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrhmanabdelhay" height="30" width="40" /></a>
+</p>
 
-- 🔔 **Real-Time Notifications:**  
-  WebSocket-based alerts for approvals and system actions
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-- 📁 **Cloud File Storage:**  
-  Upload & manage Excel, PDF, and images using Cloudinary or AWS
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrhmanabdelhay&show_icons=true&locale=en&layout=compact" alt="abdelrhmanabdelhay" /></p>
 
-- 🧾 **Audit Logs:**  
-  Tracks all key user actions securely for accountability
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrhmanabdelhay&show_icons=true&locale=en" alt="abdelrhmanabdelhay" /></p>
 
----
-
-### 📸 Project Preview
-<!-- Use a relative path if hosted in your README or GitHub repo --> view all repos on my GitHub:  
-🔗 [https://github.com/Abdelrhmanabdelhay?tab=repositories](https://github.com/Abdelrhmanabdelhay?tab=repositories)
-
----
-
-## 📫 Let's Connect
-
-- 🔗 [LinkedIn – Abdelrhman Abdelhay](https://www.linkedin.com/in/abdelrhmanabdelhay/)
-- 📧 Email: abdelrhmanabdelhay4@gmail.com
-
----
-
-> 💼 *Open to internships, freelance work, and full-time roles in Mobile and Backend Development.*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrhmanabdelhay&" alt="abdelrhmanabdelhay" /></p>
