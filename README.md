@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrhmanabdelhay</h1>
 <h3 align="center">🎓 I'm a 2025 graduate from the Faculty of Engineering,Egypt, Aswan University — Computer Engineering Department, with a Very Good GPA. 💻 I'm a passionate Flutter developer and backend engineer with hands-on experience building scalable applications using: 🔥 Flutter & Dart for cross-platform mobile development 💳 Stripe Integration for secure payments 🧠 BLoC for state management 🛠 Node.js, Express.js & MongoDB for backend logic and RESTful APIs 🌍 I'm also skilled in: ✅ Web APIs, system design, and full-stack development</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
-
+<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">
 - 🔭 I’m currently working on [University Academic Management System](https://github.com/Abdelrhmanabdelhay/graduation-project-2025-backend-main)
 
 - 🌱 I’m currently learning **Docker, Clean Architecture, CI/CD pipelines, and advanced Flutter animations**
