@@ -89,7 +89,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Abdelrhmanabdelhay/Abdelrhmanabdelhay/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/213911167-6bc9ef46-2950-481c-a03c-189f9506083b.gif" alt="snake animation" />
 </p>
 
 ---
