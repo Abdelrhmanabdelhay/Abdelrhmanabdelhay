@@ -3,7 +3,9 @@
 ,I'm a backend engineer passionate about building secure, scalable, and efficient server-side systems. I enjoy working on real-world problems using Node.js, Express, MongoDB, and modern backend tooling.
 </h3>
 
-<img align="center" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="coding gif" width="400"/>
+</div>
 - 🔭 I’m currently working on [University Academic Management System](https://github.com/Abdelrhmanabdelhay/graduation-project-2025-backend-main)
 
 - 🌱 I’m currently learning **Docker, Clean Architecture, CI/CD pipelines, and advanced Flutter animations**
