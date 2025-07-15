@@ -1,7 +1,23 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontColor=ffffff&fontSize=35&fontAlignY=40" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdelrhmanabdelhay</h1>
-<h3 align="center">🎓 I'm a 2025 graduate from the Faculty of Engineering,Egypt, Aswan University — Computer Engineering Department, with a Very Good GPA.
-,I'm a backend engineer passionate about building secure, scalable, and efficient server-side systems. I enjoy working on real-world problems using Node.js, Express, MongoDB, and modern backend tooling.
+
+<h3 align="center">
+🎓 I'm a 2025 graduate from the Faculty of Engineering, Aswan University — Computer Engineering Department, with a Very Good GPA.  
+<br/><br/>
+💻 I'm a backend engineer passionate about building secure, scalable, and efficient server-side systems. I enjoy working on real-world problems using Node.js, Express, MongoDB, and modern backend tooling.
 </h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,docker,git,postman" />
+</p>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="coding gif" width="400"/>
